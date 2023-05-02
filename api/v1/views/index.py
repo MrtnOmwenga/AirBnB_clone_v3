@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Index.py """
+""" Index file for views """
 
 
 from api.v1.views import app_views
